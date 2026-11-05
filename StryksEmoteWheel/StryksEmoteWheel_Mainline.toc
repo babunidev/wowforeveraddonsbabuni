@@ -1,0 +1,21 @@
+## Interface: 120105
+## X-WoW-Version: 12.1.5
+## Title: Stryk's Emote Wheel
+## Notes: Hover a small circle to reveal a 12-slice radial emote menu.
+## Author: stryker2k2
+## Version: 2.0.1
+## IconTexture: Interface\AddOns\StryksEmoteWheel\sew_fire_round
+## SavedVariables: StryksEmoteWheelDB
+
+Config.lua
+ChangelogData.lua
+Helpers.lua
+Wheel.lua
+Controller.lua
+Settings.lua
+SettingsWheel.lua
+SettingsCustom.lua
+SettingsControls.lua
+SettingsDebug.lua
+SettingsTabs.lua
+StryksEmoteWheel.lua

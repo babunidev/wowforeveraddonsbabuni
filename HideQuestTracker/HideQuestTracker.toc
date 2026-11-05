@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Hide Quest Tracker
+## Notes: Hides the Objective Tracker on the right side of the screen. Type /hqt to show it again.
+## Author: Babunigaming
+## Version: 1.0.0
+## SavedVariables: HideQuestTrackerDB
+
+HideQuestTracker.lua

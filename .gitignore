@@ -1,0 +1,16 @@
+
+# Downloadable Spoken audio packs
+/SpokenBossesAudio/
+/SpokenQuestsAudioShared/
+/SpokenQuestsAudioHorde/
+/SpokenQuestsAudioAlliance/
+/SpokenPlacesAudio/
+/SpokenReadablesAudio/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db

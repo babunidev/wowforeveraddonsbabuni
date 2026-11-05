@@ -1,0 +1,27 @@
+## Interface: 120105, 120105, 16001, 50504, 40402, 30403, 20506, 11509
+## Title: DialogKey - Numy Edition
+## Notes: Lets you hit a key to confirm loot/purchase dialogs, accept/complete quests, select quest rewards, etc. Hit 2 to select a reward then spacebar to complete quests? Easy!
+## Author: Numy (previous verions by: Foxthorn, N01ch, FuriousProgrammer)
+## X-GameType: [Game]
+## X-GameFamily: [Family]
+## Version: v1.2.62
+## IconTexture: Interface\Addons\DialogKey_Numy\media\icon
+## SavedVariables: DialogKeyNumyDB
+## X-Curse-Project-ID: 1098587
+## X-Wago-ID: BKpqVyGE
+## Category-enUS: User Interface
+## Category-deDE: Benutzerinterface
+## Category-esES: Interfaz de usuario
+## Category-esMX: Interfaz de usuario
+## Category-frFR: Interface utilisateur
+## Category-itIT: Interfaccia utente
+## Category-koKR: 사용자 인터페이스
+## Category-ptBR: Interface do usuário
+## Category-ruRU: Интерфейс пользователя
+## Category-zhCN: 用户界面
+## Category-zhTW: 使用者介面
+
+embeds.xml
+api.lua
+options.lua
+main.lua

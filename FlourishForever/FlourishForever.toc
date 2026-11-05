@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Flourish Forever
+## Notes: Play a random emote when you cast a configured ability. /flourish
+## Author: Babuni.dev
+## Version: 0.3.2-beta
+## SavedVariables: FlourishForeverStorage
+
+FlourishForever_Storage.lua
+FlourishForever.lua
+FlourishForever_ActionEmotes.lua
