@@ -14,3 +14,11 @@
 *~
 .DS_Store
 Thumbs.db
+
+# Independently maintained Babuni addons
+/SocialForever/
+/RoarForever/
+/RoarForever-git/
+/ResistForever/
+/Favorcraft/
+/FlourishForever/
